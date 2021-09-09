@@ -2,7 +2,7 @@
   "name": "react-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://shota-mamiya.github.io/react-portfolio",
+  "homepage": "https://shota-mamiya.github.io/react-portfolio",
   "dependencies": {
     "@reach/router": "^1.3.4",
     "@testing-library/jest-dom": "^5.14.1",
