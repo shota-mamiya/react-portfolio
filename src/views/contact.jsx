@@ -13,7 +13,7 @@ export default () => {
             </div>
             <div className="content-body">
                 <div className="content-nav-buttons">
-                    <Link to="/">
+                    <Link to="/react-portfolio">
                         <button className="nav-btn">About Me</button>
                     </Link>
                     <Link to="/skills">
